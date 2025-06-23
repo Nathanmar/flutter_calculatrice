@@ -1,0 +1,1 @@
+ C:\\Users\\natha\\StudioProjects\\flutter_calculatrice\\.dart_tool\\flutter_build\\8038f8a5aedd36cc757e90b0f779b9fc\\native_assets.json: 
